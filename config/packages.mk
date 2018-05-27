@@ -2,14 +2,12 @@
 PRODUCT_PACKAGES += \
     MonthCalendarWidget \
     OmniSwitch \
-    Chromium \
     OmniJaws \
     OmniStyle \
     OmniClockOSS \
     MusicFX \
     Phonograph \
     MatLog \
-    OmniChange \
     OpenDelta \
     Turbo \
     OmniRecord
