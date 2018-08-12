@@ -11,7 +11,8 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     Phonograph \
     Turbo \
-    MatLog
+    MatLog \
+    OmniBrain
 
 # Additional tools
 PRODUCT_PACKAGES += \
