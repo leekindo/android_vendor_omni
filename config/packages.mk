@@ -1,13 +1,9 @@
 # Additional apps
 PRODUCT_PACKAGES += \
-    MonthCalendarWidget \
     OmniSwitch \
-    OmniJaws \
     OmniStyle \
     OmniClockOSS \
     MusicFX \
-    Phonograph \
-    MatLog \
     OpenDelta \
     Turbo \
     OmniRecord
