@@ -58,6 +58,7 @@ PRODUCT_PACKAGES += \
     DocumentsUITheme \
     DialerTheme \
     MessagesTheme \
+    MusicFXTheme \
     TelecommTheme \
     PhonographTheme
 
